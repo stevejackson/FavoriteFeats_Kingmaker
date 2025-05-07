@@ -31,4 +31,4 @@ If you don't want this, you can keep multiple save files for NPCs in different p
 
 - Github source code: https://github.com/stevejackson/FavoriteFeats_Kingmaker
 - Github mod download: https://github.com/stevejackson/FavoriteFeats_Kingmaker/releases
-- Nexus:
+- Nexus: https://www.nexusmods.com/pathfinderkingmaker/mods/334

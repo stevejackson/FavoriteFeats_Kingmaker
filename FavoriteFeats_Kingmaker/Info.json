@@ -1,0 +1,10 @@
+{
+    "Id": "FavoriteFeats_Kingmaker",
+    "DisplayName": "Favorite Feats",
+    "Author": "stevejackson",
+    "Version": "1.0.0",
+    "ManagerVersion": "0.32.4",
+    "Requirements": [],
+    "AssemblyName": "FavoriteFeats_Kingmaker.dll",
+    "EntryMethod": "FavoriteFeats_Kingmaker.Main.Load"
+}
